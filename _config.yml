@@ -23,9 +23,9 @@ repository               : "HerrTete/herrtete.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "sidebar"
+  name             : "herrtete"
   pronouns         : "he/him"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Father, Husband, Developer, Leader"
   location         : "Bavaria"
   employer         : #
   uri              : "https://herrtete.de"
